@@ -12,7 +12,7 @@ public class Controller {
 		System.out.println("UserController");
 
 	}
-	@GetMapping("/users123")
+	@GetMapping("/users1234")
 	public String getUsers() {
 		System.out.println("In Console");
 		return "Kulanshu";
